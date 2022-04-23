@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.whatsapp-container{
+    position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+  cursor: pointer;
+  
+  
+}
+
+.bi-whatsapp{
+    margin-top: 9px;
+    color:#FFF;   
+}
+
+.modal-header{
+    background: #0e0872;
+}
+
+.modal-header h1{
+    color: #FFF;
+}
