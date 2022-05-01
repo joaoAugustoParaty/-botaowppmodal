@@ -16,6 +16,7 @@
         }, false)
       })
   })()
+  
   $("#telefone").mask("(00) 0000-0000");
   $("#nome").mask("Digite seu nome completo");
 
